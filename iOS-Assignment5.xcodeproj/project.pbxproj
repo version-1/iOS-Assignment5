@@ -16,6 +16,7 @@
 		84947EFE2469876200015A29 /* iOS_Assignment5Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84947EFD2469876200015A29 /* iOS_Assignment5Tests.swift */; };
 		84947F092469876200015A29 /* iOS_Assignment5UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84947F082469876200015A29 /* iOS_Assignment5UITests.swift */; };
 		84947F1724698DD600015A29 /* TipViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84947F1624698DD600015A29 /* TipViewController.swift */; };
+		84947F192469991700015A29 /* Billing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84947F182469991700015A29 /* Billing.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		84947F082469876200015A29 /* iOS_Assignment5UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_Assignment5UITests.swift; sourceTree = "<group>"; };
 		84947F0A2469876200015A29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84947F1624698DD600015A29 /* TipViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipViewController.swift; sourceTree = "<group>"; };
+		84947F182469991700015A29 /* Billing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Billing.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				84947EE82469875F00015A29 /* SceneDelegate.swift */,
 				84947EEA2469875F00015A29 /* ViewController.swift */,
 				84947F1624698DD600015A29 /* TipViewController.swift */,
+				84947F182469991700015A29 /* Billing.swift */,
 				84947EEC2469875F00015A29 /* Main.storyboard */,
 				84947EEF2469876200015A29 /* Assets.xcassets */,
 				84947EF12469876200015A29 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84947F192469991700015A29 /* Billing.swift in Sources */,
 				84947EEB2469875F00015A29 /* ViewController.swift in Sources */,
 				84947EE72469875F00015A29 /* AppDelegate.swift in Sources */,
 				84947F1724698DD600015A29 /* TipViewController.swift in Sources */,
